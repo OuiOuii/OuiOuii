@@ -1,18 +1,18 @@
 # Hi there! I'm **Jericho Mortega** 👋
 
-I'm a **4th-year BSIT student** passionate about **web development** and **cloud infrastructure**. Currently, I'm honing my skills in **Full-Stack Development** by working on real-world projects.
+I'm an **Aspiring Software Engineer** with a **BS in Information Technology (Class of 2025)**, passionate about **web development**, **software engineering**, and **cloud infrastructure**. I'm currently sharpening my skills by building real-world projects and scalable applications.
 
 ## 🚀 **What I'm Learning:**
-- ☁️ **Cloud Infrastructure** (CI/CD, Docker, Kubernetes, AWS)
-- 🖥️ **JavaScript & Full-Stack Development** (React, Node.js, Express, MongoDB)
-- 📌 **Object-Oriented Programming (OOP)** with Java
+- ☁️ **Cloud Infrastructure** with **AWS**
+- ⚙️ **Java OOP** and **Spring Boot**
+- 🖥️ **Full-Stack Development** with **React**
 
 ## 🛠️ **Projects & Experience:**
-- 🔥 Developed **iAlisto Pasig**, a web-based and mobile **fire alert system**.
-- 🗺️ Implemented **geospatial clustering (DBSCAN)** and visualized **fire incident data** using **Mapbox GL JS**.
+- 🔥 Built **iAlisto Pasig**, a web-based and mobile **fire alert system** for Pasig City.
+- 🗺️ Used **geospatial clustering (DBSCAN)** and **Mapbox GL JS** to visualize fire incident data interactively.
 
 ## 📫 **Let's Connect!**
 - 🐙 GitHub: [OuiOuii](https://github.com/OuiOuii)
 - 💼 LinkedIn: [Jericho Mortega](https://www.linkedin.com/in/jericho-mortega-186790345/)
 
-🤝 Looking forward to collaborating and learning together! 🚀
+🤝 I'm always excited to collaborate, build, and grow — let's connect! 🚀

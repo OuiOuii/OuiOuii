@@ -11,6 +11,8 @@ I'm an **Aspiring Software Engineer** with a **BS in Information Technology (Cla
 - 🔥 Built **iAlisto Pasig**, a web-based and mobile **fire alert system** for Pasig City.
 - 🗺️ Used **geospatial clustering (DBSCAN)** and **Mapbox GL JS** to visualize fire incident data interactively.
 
+## 📍 My Learning Journey
+[![roadmap.sh](https://roadmap.sh/card/wide/6696c046489532a684d419e5?variant=dark)](https://roadmap.sh)
 ## 📫 **Let's Connect!**
 - 🐙 GitHub: [OuiOuii](https://github.com/OuiOuii)
 - 💼 LinkedIn: [Jericho Mortega](https://www.linkedin.com/in/jericho-mortega-186790345/)

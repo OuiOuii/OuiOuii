@@ -4,7 +4,7 @@ I'm an **Aspiring Software Engineer** with a **BS in Information Technology (Cla
 
 ## 🚀 **What I'm Learning:**
 - ☁️ **Cloud Infrastructure** with **AWS**
-- ⚙️ **Java OOP** and **Spring Boot**
+- ⚙️ **Java SE** and **Spring Boot**
 - 🖥️ **Full-Stack Development** with **React**
 
 ## 🛠️ **Projects & Experience:**
